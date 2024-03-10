@@ -1,4 +1,4 @@
-<img src="pics_README/logo.png" style="zoom:33%;" />
+<img src="pics_README/logo.png" style="zoom:50%;" />
 
 中国古代典籍抄录笔记
 

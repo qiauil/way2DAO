@@ -1,5 +1,7 @@
 ## Way2DAO
 
+<img src="pics_README/drawing.svg" style="zoom:33%;" />
+
 中国古代典籍抄录笔记
 
 **提示：** 本存储库仅选择性记录古籍中的部分语句，具有很强的个人偏好。如果希望全面了解原书籍，请自行查阅相关资料。
@@ -48,7 +50,7 @@ Way2Dao: A Personal Notes on Ancient Chinese Classics
 
 又想起了大学的时候，每天抄一首古诗到笔记本上。我一直觉得那是我大学做过最酷的事情。现在想来，一定也是受了初中那张纸的影响。很开心，现在又可以做另一件很酷的事了。
 
-##  Why Does This Repository Exist?
+##  Why Establish this Repository?
 
 Recently, I reconnected with a friend I hadn’t heard from in a long time. During our chat, he suddenly asked if I still had "that piece of paper from middle school." He wanted to send a copy to his sister. He said:
 
